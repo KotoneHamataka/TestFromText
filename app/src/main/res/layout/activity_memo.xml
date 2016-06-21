@@ -42,7 +42,7 @@
             android:text="save"
             android:id="@+id/button2"
             android:onClick="save"
-            android:background="#ff8c8c"
+            android:background="#ff4c4c"
             android:textColor="@android:color/white" />
 
     </LinearLayout>
